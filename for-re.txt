@@ -1,0 +1,4 @@
+data0 = "ha haha ha-ha hah heh. hse."
+data1 = "+7(906)000-11-23 Alla A"
+data2 = "+7(906)000-11-23 Alla Borisovna 8(906)111-00-23 Alla Andreevna"
+data3 = "+7(906)000-11-23 Alla Borisovna 8(906)111-00-23 Alla Andreevna (999)233-00-21 Alla"
